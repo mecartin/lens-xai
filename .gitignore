@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+*.log
+*.txt
+!requirements.txt
+!README.txt
+!trace.txt
+!error.log
+.env
+.idea/
+.vscode/
