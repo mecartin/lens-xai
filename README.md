@@ -1,8 +1,7 @@
 # LENS-XAI
 **Lightweight Explainable Network Security through Knowledge Distillation and Variational Autoencoders**
 
-**Team Members:** Dan N Mecartin (23BAI1291) | Thapaswin G (23BAI1316)  
-**Institution:** Vellore Institute of Technology (2025)
+
 ---
 
 ## 1. Base Paper Overview
